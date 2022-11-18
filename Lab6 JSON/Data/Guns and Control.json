@@ -1,0 +1,855 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 5280,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1uJRzQEACAAJ",
+      "etag": "N4hFgI74lfY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1uJRzQEACAAJ",
+      "volumeInfo": {
+        "title": "Guns and Control",
+        "subtitle": "A Nonpartisan Guide to Understanding Mass Public Shootings, Gun Accidents, Crime, Public Carry, Suicides, Defensive Use, and More",
+        "authors": [
+          "Guy Smith"
+        ],
+        "publisher": "Skyhorse",
+        "publishedDate": "2020-09-01",
+        "description": "A Nonpartisan guide that arms both sides of the gun control debate. The slogan of the Gun Facts Project is “We are neither pro-gun nor anti-gun. We are pro-math and anti-BS.” From project creator Guy Smith comes Guns and Control: A Nonpartisan Guide to Mass Public Shootings, Gun Accidents, Crime, Public Carry, Suicides, Defensive Use, and More. No matter what side of the aisle one is on, people are baffled by gun control. This book is designed to be a guide to thoughtful discussion; it arms readers with facts and the logic behind conflicting arguments and leaves emotional rhetoric to the pundits and focuses on the thorny issues of the debate. Guns and Control will: • Guide readers step-wise through each of the major gun control topics: mass public shootings, assault weapons, street crime, suicide, private carry, defensive gun use, gun availability, and more. • Help readers gain the broad perspective and the full set of important, true facts, just in time for the 2020 Presidential Election. • Arm readers against some of the more egregious misinformation. • Support readers in formulating their own conclusions. Guns and Control will grant high-level perspectives—for example, that mass public shootings are a global phenomenon, occurring in nearly all developed nations—and explore details to understand the causes, and thus possible cures, of gun violence-related problems. Was the push for de-institutionalization in mental health management a contributing factor to the rise in mass public shootings? Guns and Control will help readers find answers to such questions. What the public lacks is a clear, unbiased, broad perspective on the realities of guns, explained in simple, straightforward, and entertaining ways. Guns and Control will demystify these misunderstood aspects of who uses and misuses guns.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1510760075"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781510760073"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1uJRzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1uJRzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1uJRzQEACAAJ&dq=guns&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1uJRzQEACAAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guns_and_Control.html?hl=&id=1uJRzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1uJRzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is designed to be a guide to thoughtful discussion; it arms readers with facts and the logic behind conflicting arguments and leaves emotional rhetoric to the pundits and focuses on the thorny issues of the debate."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nfBXBAAAQBAJ",
+      "etag": "bINBd21ff4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nfBXBAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Gun Book for Girls",
+        "authors": [
+          "Silvio Calabi",
+          "Steve Helsley",
+          "Roger Sanger"
+        ],
+        "publisher": "Down East Books",
+        "publishedDate": "2013-09-16",
+        "description": "This third installment in the popular series of practical books about guns and shooting is aimed at women of all ages—the fastest-growing segment of the sport—and it couldn’t come at a better time. America and firearms literally grew up together, but today guns are often simply linked to crime and violence; gun control has become a polarizing political issue; and misinformation about firearms is spreading. Now three experts have tackled the subject in a series of books that explores the realities of guns and shooting and sets the record straight about some common misconceptions. On the heels of The Gun Book for Boys and The Gun Book for Parents, The Gun Book for Girls is for girls (and women) interested in guns and shooting but who have little or no background in firearms. Through example and anecdote, the book emphasizes safety and proper usage, and it defines terms and provides hands-on advice about using and maintaining guns. It also covers firearms, shooting methods, clothing and accessories for women, profiles females who shoot and who work in the gun trade, and discusses the issues around guns for self-defense (a topic of special interest to women). Like the other two titles, this book is non-political and written in an easy-to-understand conversational tone. Each book is thoroughly illustrated, and content is presented in easily managed portions that can be read in series or singly, all backed up with an index.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781608934409"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1608934403"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nfBXBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nfBXBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nfBXBAAAQBAJ&printsec=frontcover&dq=guns&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nfBXBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nfBXBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nfBXBAAAQBAJ&rdid=book-nfBXBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Gun_Book_for_Girls-sample-epub.acsm?id=nfBXBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Gun_Book_for_Girls-sample-pdf.acsm?id=nfBXBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nfBXBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Like the other two titles, this book is non-political and written in an easy-to-understand conversational tone."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RW6pxRN2JysC",
+      "etag": "QGdGbGZFBDY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RW6pxRN2JysC",
+      "volumeInfo": {
+        "title": "Young Guns",
+        "subtitle": "A New Generation of Conservative Leaders",
+        "authors": [
+          "Eric Cantor",
+          "Paul Ryan",
+          "Kevin McCarthy"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2010-09-14",
+        "description": "America urgently needs a new direction. But who will provide it? The time has come to move the country forward with a clear agenda based on common sense for the common good. THERE IS A BETTER WAY. Make no mistake: Congressmen Eric Cantor, Paul Ryan, and Kevin McCarthy are proud Republicans. But they believe the party had lost sight of the ideals it believes in, like economic freedom, limited government, the sanctity of life, and putting families first. This isn’t your grandfather’s Republican party. These Young Guns of the House GOP—Cantor (the leader), Ryan (the thinker), and McCarthy (the strategist)—are ready to take their belief in the principles that have made America great and translate it into solutions that will make the future even better, solutions that will create private sector jobs, maximize individual freedom, and establish a better world for our children. This groundbreaking book is a call to action that sets forth a plan for growth, opportunity, and commitment that will propel this country to prosperity once again. Together, the Young Guns are changing the face of the Republican party and giving us a new road map back to the American dream.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1451607350"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451607352"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.12.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RW6pxRN2JysC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RW6pxRN2JysC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RW6pxRN2JysC&printsec=frontcover&dq=guns&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RW6pxRN2JysC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RW6pxRN2JysC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RW6pxRN2JysC&rdid=book-RW6pxRN2JysC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Young_Guns-sample-epub.acsm?id=RW6pxRN2JysC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RW6pxRN2JysC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This groundbreaking book is a call to action that sets forth a plan for growth, opportunity, and commitment that will propel this country to prosperity once again."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6P_VBgAAQBAJ",
+      "etag": "ECViQPBV5DU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6P_VBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Citizen-protectors",
+        "subtitle": "The Everyday Politics of Guns in an Age of Decline",
+        "authors": [
+          "Jennifer Carlson"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2015",
+        "description": "\"From gang- and drug-related shootings to mass shootings in schools, shopping centers, and movie theatres, reports of gun crimes fill the headlines of newspapers and nightly news programs. At the same time, a different kind of headline has captured public attention: a steady surge in pro-gun sentiment among Americans. A Gallup poll conducted just a month after the Newtown school shootings found that 74% of Americans oppose a ban on hand-guns, and at least 11 million people now have licenses to carry concealed weapons as part of their everyday lives. Why do so many Americans not only own guns but also carry them? In Citizen-Protectors, Jennifer Carlson offers a compelling portrait of gun carriers, shedding light on Americans' complex relationship with guns. Delving headlong into the world of gun carriers, Carlson spent time participating in firearms training classes, attending pro-gun events, and carrying a firearm herself. Through these experiences she explores the role guns play in the lives of Americans who carry them and shows how, against a backdrop of economic insecurity and social instability, gun carrying becomes a means of being a good citizen, an idea that not only pervades the NRA's public literature and statements, but its training courses as well. A much-needed counterpoint to the rhetorical battles over gun control, Citizen-Protectors is a captivating and revealing look at gun culture in America, and is a must-read for anyone with a stake in this heated debate\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199347551"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199347557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6P_VBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6P_VBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6P_VBgAAQBAJ&printsec=frontcover&dq=guns&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6P_VBgAAQBAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Citizen_protectors.html?hl=&id=6P_VBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Citizen_protectors-sample-pdf.acsm?id=6P_VBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6P_VBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Why do so many Americans not only own guns but also carry them? In Citizen-Protectors, Jennifer Carlson offers a compelling portrait of gun carriers, shedding light on Americans&#39; complex relationship with guns."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gZ5cCwAAQBAJ",
+      "etag": "OFSKnwrXL3w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gZ5cCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Into the Guns",
+        "authors": [
+          "William C. Dietz"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2016-10-04",
+        "description": "From the New York Times bestselling author of The Legion of the Damned® Novels and The Mutant Files comes the first novel in a post-apocalyptic military science fiction series about America rising from the ashes of a global catastrophe... On May Day, 2018, sixty meteors entered Earth’s atmosphere and exploded around the globe with a force greater than a nuclear blast. Earthquakes and tsunamis followed. Then China attacked Europe, Asia, and the United States in the belief the disaster was an act of war. Washington D.C. was a casualty of the meteor onslaught that decimated the nation’s leadership and left the surviving elements of the armed forces to try and restore order as American society fell apart. As refugees across America band together and engage in open warfare with the military over scarce resources, a select group of individuals representing the surviving corporate structure makes a power play to rebuild the country in a free market image as The New Confederacy...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780698184398"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0698184394"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gZ5cCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gZ5cCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gZ5cCwAAQBAJ&printsec=frontcover&dq=guns&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gZ5cCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gZ5cCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gZ5cCwAAQBAJ&rdid=book-gZ5cCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Into_the_Guns-sample-epub.acsm?id=gZ5cCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gZ5cCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the New York Times bestselling author of The Legion of the Damned® Novels and The Mutant Files comes the first novel in a post-apocalyptic military science fiction series about America rising from the ashes of a global catastrophe."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XamMEAAAQBAJ",
+      "etag": "ThzQoREg0Ag",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XamMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Lives Like Loaded Guns",
+        "subtitle": "Emily Dickinson and Her Family's Feuds",
+        "authors": [
+          "Lyndall Gordon"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2011-05-31",
+        "description": "\"Lives Like Loaded Guns...reads like a fabulous detective story...[Gordon] takes us into undiscovered territory.\" —The Washington Post A great companion to fans of the film A Quiet Passion, starring Cynthia Nixon as Emily Dickinson and the new series Dickinson. In 1882, Emily Dickinson's brother, Austin, began an adulterous love affair with the accomplished and ravishing Mabel Todd, setting in motion a series of events that would forever change the lives of the Dickinson family. Award-winning biographer Lyndall Gordon tells the story of the feud that erupted-and that still continues today. Making unprecedented use of letters, diaries, and legal documents, Gordon proposes a groundbreaking new solution to the secret behind the poet's insistent seclusion, presenting a woman beyond her time who found love, spirituality, and immortality all on her own terms. The first major biography of Dickinson in nearly ten years, Lives Like Loaded Guns is a highly acclaimed story of creative genius, illicit passion, and betrayal that will forever change the way we view one of America's most important literary figures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143119142"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143119141"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XamMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XamMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XamMEAAAQBAJ&dq=guns&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XamMEAAAQBAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lives_Like_Loaded_Guns.html?hl=&id=XamMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XamMEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Lives Like Loaded Guns...reads like a fabulous detective story...[Gordon] takes us into undiscovered territory.&quot; —The Washington Post A great companion to fans of the film A Quiet Passion, starring Cynthia Nixon as Emily Dickinson and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZyYTCgAAQBAJ",
+      "etag": "V4JX4m9Lcuc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZyYTCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Guns in America",
+        "subtitle": "A Reader",
+        "authors": [
+          "Jan E. Dizard",
+          "Robert Muth",
+          "Robert Merrrill",
+          "Stephen P. Andrews"
+        ],
+        "publisher": "NYU Press",
+        "publishedDate": "1999-04",
+        "description": "Documenting and analyzing the history of firearms in America, this book explores various aspects of gun manufacture, ownership and use - and the cultural and political implications which this history reveals. It presents a diverse array of writings which range from Puritan sermons to NRA documents.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780814718797"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0814718795"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 527,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZyYTCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZyYTCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZyYTCgAAQBAJ&printsec=frontcover&dq=guns&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZyYTCgAAQBAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guns_in_America.html?hl=&id=ZyYTCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZyYTCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Documenting and analyzing the history of firearms in America, this book explores various aspects of gun manufacture, ownership and use - and the cultural and political implications which this history reveals."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F6y_tAEACAAJ",
+      "etag": "H+oDIzGUgOE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F6y_tAEACAAJ",
+      "volumeInfo": {
+        "title": "Tactical Gun Digest",
+        "subtitle": "The World's Greatest Tactical Firearm and Gear Book",
+        "authors": [
+          "Corey Graff"
+        ],
+        "publisher": "Gun Digest",
+        "publishedDate": "2019-05-28",
+        "description": "As the premier source of up-to-date information on tactical firearms and gear, Tactical Gun Digest combines authoritative reporting by industry experts and coverage of the latest products, trends and techniques with an extensive illustrated catalog featuring state-of-the-art handguns, rifles, shotguns, optics and gear. This book is the ultimate reference for the tactical professional or serious shooter. Tactical Gun Digest is the only resource of its kind, providing enthusiasts with all the latest trend information through product reports from top-name authorities and access to a one-of-a-kind catalog index with exhaustive illustrations of major and lesser-known brands of concealed carry and service-grade handguns, precision rifles and tactical shotguns and gear. This book is for the tactical professional or serious shooter who depends on their guns and gear to survive.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "194626752X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781946267528"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F6y_tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F6y_tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=F6y_tAEACAAJ&dq=guns&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=F6y_tAEACAAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tactical_Gun_Digest.html?hl=&id=F6y_tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F6y_tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is for the tactical professional or serious shooter who depends on their guns and gear to survive."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A2SCDwAAQBAJ",
+      "etag": "gUN4tiLmk1k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A2SCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Guns & Ammo Guide to Sniping",
+        "subtitle": "A Comprehensive Guide to Guns, Gear, and Skills",
+        "authors": [
+          "Editors of Guns & Ammo"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-05-09",
+        "description": "Everything you need to know about sniping from the top firearms writers. The Guns & Ammo Guide to Sniping is packed with a wealth of valuable information compiled by the foremost firearms writers today. A vast range of topics is covered in these articles, including: Unusual shooting positions The US Army’s XM2010 The sniper’s ultimate “one gun” Modern reticles Anti-cant Temperature effect Distance shooting for police Ballistics for beginners And much more! Discover tried and true tips, tactics, and techniques from the pros along with guidance on buying gear and firearms from experts including Caylen E. Wojcik, Tom Beckstrand, Todd Hodnett, and Jeff Hoffman. The Guns & Ammo Guide to Sniping has everything you need to know about sniping!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781510713147"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "151071314X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A2SCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A2SCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=A2SCDwAAQBAJ&printsec=frontcover&dq=guns&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=A2SCDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=A2SCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=A2SCDwAAQBAJ&rdid=book-A2SCDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Guns_Ammo_Guide_to_Sniping-sample-epub.acsm?id=A2SCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A2SCDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Guns &amp; Ammo Guide to Sniping has everything you need to know about sniping!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_COODQAAQBAJ",
+      "etag": "xWa9q4yx8cE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_COODQAAQBAJ",
+      "volumeInfo": {
+        "title": "Gun Guys",
+        "subtitle": "A Road Trip",
+        "authors": [
+          "Dan Baum"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2013-12-03",
+        "description": "Dan Baum is a gun fanatic. He is also Jewish Democrat who grew up in suburban New Jersey. In Gun Guys, he takes us on a guided tour of gun stores and gun shows, shooting ranges and festivals, contests and auctions, trying to figure out what draws so many of us to guns in the first place. Is it just part of being American? Introducing a wide cast of characters, Baum shows both sides of the gun culture in America, bringing an entire world vividly to life, and in doing so helping to find a middle ground in the gun debate, where actual conversation can take place.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307742506"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307742504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_COODQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_COODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_COODQAAQBAJ&printsec=frontcover&dq=guns&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_COODQAAQBAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gun_Guys.html?hl=&id=_COODQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_COODQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dan Baum is a gun fanatic."
+      }
+    }
+  ]
+}

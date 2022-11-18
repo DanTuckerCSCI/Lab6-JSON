@@ -1,0 +1,854 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2782,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "qEShJwTwDj8C",
+      "etag": "hXF83eUfuzs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qEShJwTwDj8C",
+      "volumeInfo": {
+        "title": "Guns Up!",
+        "subtitle": "A Firsthand Account of the Vietnam War",
+        "authors": [
+          "Johnnie Clark"
+        ],
+        "publisher": "Presidio Press",
+        "publishedDate": "2011-02-02",
+        "description": "THIS GUT-WRENCHING FIRSTHAND ACCOUNT OF THE WAR IS A CLASSIC IN THE ANNALS OF VIETNAM LITERATURE. \"Guns up!\" was the battle cry that sent machine gunners racing forward with their M60s to mow down the enemy, hoping that this wasn't the day they would meet their deaths. Marine Johnnie Clark heard that the life expectancy of a machine gunner in Vietnam was seven to ten seconds after a firefight began. Johnnie was only eighteen when he got there, at the height of the bloody Tet Offensive at Hue, and he quickly realized the grim statistic held a chilling truth. The Marines who fought and bled and died were ordinary men, many still teenagers, but the selfless bravery they showed day after day in a nightmarish jungle war made them true heroes. This new edition of Guns Up!, filled with photographs and updated information about those harrowing battles, also contains the real names of these extraordinary warriors and details of their lives after the war. The book's continuing success is a tribute to the raw courage and sacrifice of the United States Marines.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307778550"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "030777855X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qEShJwTwDj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qEShJwTwDj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qEShJwTwDj8C&printsec=frontcover&dq=guns&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qEShJwTwDj8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qEShJwTwDj8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qEShJwTwDj8C&rdid=book-qEShJwTwDj8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Guns_Up-sample-epub.acsm?id=qEShJwTwDj8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qEShJwTwDj8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This new edition of Guns Up!, filled with photographs and updated information about those harrowing battles, also contains the real names of these extraordinary warriors and details of their lives after the war."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "92J9wTgKBOMC",
+      "etag": "xqrP1Ga8jqM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/92J9wTgKBOMC",
+      "volumeInfo": {
+        "title": "The Guns of August",
+        "subtitle": "The Outbreak of World War I; Barbara W. Tuchman's Great War Series",
+        "authors": [
+          "Barbara W. Tuchman"
+        ],
+        "publisher": "Random House Trade Paperbacks",
+        "publishedDate": "1994-03-08",
+        "description": "PULITZER PRIZE WINNER • “A brilliant piece of military history which proves up to the hilt the force of Winston Churchill’s statement that the first month of World War I was ‘a drama never surpassed.’”—Newsweek Selected by the Modern Library as one of the 100 best nonfiction books of all time In this landmark account, renowned historian Barbara W. Tuchman re-creates the first month of World War I: thirty days in the summer of 1914 that determined the course of the conflict, the century, and ultimately our present world. Beginning with the funeral of Edward VII, Tuchman traces each step that led to the inevitable clash. And inevitable it was, with all sides plotting their war for a generation. Dizzyingly comprehensive and spectacularly portrayed with her famous talent for evoking the characters of the war’s key players, Tuchman’s magnum opus is a classic for the ages. The Proud Tower, the Pulitzer Prize–winning The Guns of August, and The Zimmermann Telegram comprise Barbara W. Tuchman’s classic histories of the First World War era",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345386236"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "034538623X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 562,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=92J9wTgKBOMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=92J9wTgKBOMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=92J9wTgKBOMC&printsec=frontcover&dq=guns&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=92J9wTgKBOMC&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Guns_of_August.html?hl=&id=92J9wTgKBOMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=92J9wTgKBOMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Proud Tower, the Pulitzer Prize–winning The Guns of August, and The Zimmermann Telegram comprise Barbara W. Tuchman’s classic histories of the First World War era"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SOS5ZxFDRSIC",
+      "etag": "+jyzYMlVmuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SOS5ZxFDRSIC",
+      "volumeInfo": {
+        "title": "The Guns of Independence",
+        "subtitle": "The Siege of Yorktown, 1781",
+        "authors": [
+          "Jerome Greene"
+        ],
+        "publisher": "Savas Beatie",
+        "publishedDate": "2005-04-19",
+        "description": "In early 1781, after his victories in the Southern Colonies, Lord Cornwallis marched his army north into Virginia. He believed the Americans could be decisively defeated in Virginia and the war brought to an end. George Washington believed Cornwallis's move was a strategic blunder, and he moved vigorously to exploit it. Feinting against General Clinton and the British stronghold of New York, Washington marched his army quickly south. With the assistance of Rochambeau's infantry and a key French naval victory at the Battle off the Capes in September, Washington trapped Cornwallis on the tip of a narrow Virginia peninsula at a place called Yorktown. And so it began. Operating on the belief that Clinton would arrive with reinforcements, Cornwallis confidently remained within Yorktown's inadequate defenses. Determined that nothing short of outright surrender would suffice, his opponent labored day and night to achieve that end. Washington's brilliance was on display as he skillfully constricted Cornwallis's position by digging entrenchments, erecting redoubts and artillery batteries, and launching well-timed attacks to capture key enemy positions. The nearly flawless Allied campaign sealed Cornwallis's fate. Trapped inside crumbling defenses, he surrendered on October 19, 1781, effectively ending the war in North America.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781932714685"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1932714685"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 529,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SOS5ZxFDRSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SOS5ZxFDRSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SOS5ZxFDRSIC&printsec=frontcover&dq=guns&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SOS5ZxFDRSIC&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Guns_of_Independence.html?hl=&id=SOS5ZxFDRSIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Guns_of_Independence-sample-epub.acsm?id=SOS5ZxFDRSIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Guns_of_Independence-sample-pdf.acsm?id=SOS5ZxFDRSIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SOS5ZxFDRSIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In early 1781, after his victories in the Southern Colonies, Lord Cornwallis marched his army north into Virginia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8Su7zgEACAAJ",
+      "etag": "mCxBYWJ4Jrk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8Su7zgEACAAJ",
+      "volumeInfo": {
+        "title": "Guns of the Dawn",
+        "authors": [
+          "Adrian Tchaikovsky"
+        ],
+        "publisher": "Tor",
+        "publishedDate": "2022-07-07",
+        "description": "A fantastic standalone novel from the Arthur C. Clarke Award-winning author Adrian Tchaikovsky. When Lascanne falls under the shadow of its warring neighbour, Denland, Emily Marshwic is conscripted to fight for the cause. But do her doubts prove another way to victory?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1529091454"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529091458"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "averageRating": 3.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8Su7zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8Su7zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8Su7zgEACAAJ&dq=guns&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8Su7zgEACAAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guns_of_the_Dawn.html?hl=&id=8Su7zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8Su7zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Guns of the Dawn is a pacey, gripping fantasy of war and magic, from Arthur C. Clarke Award-winning author, Adrian Tchaikovsky.&#39;One of the best books I&#39;ve ever read&#39; - Peter Newman, author of The VagrantThe first casualty of war is truth ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1uJRzQEACAAJ",
+      "etag": "Kf0TFsXeGEQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1uJRzQEACAAJ",
+      "volumeInfo": {
+        "title": "Guns and Control",
+        "subtitle": "A Nonpartisan Guide to Understanding Mass Public Shootings, Gun Accidents, Crime, Public Carry, Suicides, Defensive Use, and More",
+        "authors": [
+          "Guy Smith"
+        ],
+        "publisher": "Skyhorse",
+        "publishedDate": "2020-09-01",
+        "description": "A Nonpartisan guide that arms both sides of the gun control debate. The slogan of the Gun Facts Project is “We are neither pro-gun nor anti-gun. We are pro-math and anti-BS.” From project creator Guy Smith comes Guns and Control: A Nonpartisan Guide to Mass Public Shootings, Gun Accidents, Crime, Public Carry, Suicides, Defensive Use, and More. No matter what side of the aisle one is on, people are baffled by gun control. This book is designed to be a guide to thoughtful discussion; it arms readers with facts and the logic behind conflicting arguments and leaves emotional rhetoric to the pundits and focuses on the thorny issues of the debate. Guns and Control will: • Guide readers step-wise through each of the major gun control topics: mass public shootings, assault weapons, street crime, suicide, private carry, defensive gun use, gun availability, and more. • Help readers gain the broad perspective and the full set of important, true facts, just in time for the 2020 Presidential Election. • Arm readers against some of the more egregious misinformation. • Support readers in formulating their own conclusions. Guns and Control will grant high-level perspectives—for example, that mass public shootings are a global phenomenon, occurring in nearly all developed nations—and explore details to understand the causes, and thus possible cures, of gun violence-related problems. Was the push for de-institutionalization in mental health management a contributing factor to the rise in mass public shootings? Guns and Control will help readers find answers to such questions. What the public lacks is a clear, unbiased, broad perspective on the realities of guns, explained in simple, straightforward, and entertaining ways. Guns and Control will demystify these misunderstood aspects of who uses and misuses guns.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1510760075"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781510760073"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1uJRzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1uJRzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1uJRzQEACAAJ&dq=guns&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1uJRzQEACAAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guns_and_Control.html?hl=&id=1uJRzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1uJRzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is designed to be a guide to thoughtful discussion; it arms readers with facts and the logic behind conflicting arguments and leaves emotional rhetoric to the pundits and focuses on the thorny issues of the debate."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nfBXBAAAQBAJ",
+      "etag": "FP1WsEoDr8Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nfBXBAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Gun Book for Girls",
+        "authors": [
+          "Silvio Calabi",
+          "Steve Helsley",
+          "Roger Sanger"
+        ],
+        "publisher": "Down East Books",
+        "publishedDate": "2013-09-16",
+        "description": "This third installment in the popular series of practical books about guns and shooting is aimed at women of all ages—the fastest-growing segment of the sport—and it couldn’t come at a better time. America and firearms literally grew up together, but today guns are often simply linked to crime and violence; gun control has become a polarizing political issue; and misinformation about firearms is spreading. Now three experts have tackled the subject in a series of books that explores the realities of guns and shooting and sets the record straight about some common misconceptions. On the heels of The Gun Book for Boys and The Gun Book for Parents, The Gun Book for Girls is for girls (and women) interested in guns and shooting but who have little or no background in firearms. Through example and anecdote, the book emphasizes safety and proper usage, and it defines terms and provides hands-on advice about using and maintaining guns. It also covers firearms, shooting methods, clothing and accessories for women, profiles females who shoot and who work in the gun trade, and discusses the issues around guns for self-defense (a topic of special interest to women). Like the other two titles, this book is non-political and written in an easy-to-understand conversational tone. Each book is thoroughly illustrated, and content is presented in easily managed portions that can be read in series or singly, all backed up with an index.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781608934409"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1608934403"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nfBXBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nfBXBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nfBXBAAAQBAJ&printsec=frontcover&dq=guns&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nfBXBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nfBXBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nfBXBAAAQBAJ&rdid=book-nfBXBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Gun_Book_for_Girls-sample-epub.acsm?id=nfBXBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Gun_Book_for_Girls-sample-pdf.acsm?id=nfBXBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nfBXBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Like the other two titles, this book is non-political and written in an easy-to-understand conversational tone."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RW6pxRN2JysC",
+      "etag": "lJa3gHQheAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RW6pxRN2JysC",
+      "volumeInfo": {
+        "title": "Young Guns",
+        "subtitle": "A New Generation of Conservative Leaders",
+        "authors": [
+          "Eric Cantor",
+          "Paul Ryan",
+          "Kevin McCarthy"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2010-09-14",
+        "description": "America urgently needs a new direction. But who will provide it? The time has come to move the country forward with a clear agenda based on common sense for the common good. THERE IS A BETTER WAY. Make no mistake: Congressmen Eric Cantor, Paul Ryan, and Kevin McCarthy are proud Republicans. But they believe the party had lost sight of the ideals it believes in, like economic freedom, limited government, the sanctity of life, and putting families first. This isn’t your grandfather’s Republican party. These Young Guns of the House GOP—Cantor (the leader), Ryan (the thinker), and McCarthy (the strategist)—are ready to take their belief in the principles that have made America great and translate it into solutions that will make the future even better, solutions that will create private sector jobs, maximize individual freedom, and establish a better world for our children. This groundbreaking book is a call to action that sets forth a plan for growth, opportunity, and commitment that will propel this country to prosperity once again. Together, the Young Guns are changing the face of the Republican party and giving us a new road map back to the American dream.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1451607350"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451607352"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.12.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RW6pxRN2JysC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RW6pxRN2JysC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RW6pxRN2JysC&printsec=frontcover&dq=guns&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RW6pxRN2JysC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RW6pxRN2JysC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RW6pxRN2JysC&rdid=book-RW6pxRN2JysC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Young_Guns-sample-epub.acsm?id=RW6pxRN2JysC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RW6pxRN2JysC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This groundbreaking book is a call to action that sets forth a plan for growth, opportunity, and commitment that will propel this country to prosperity once again."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6P_VBgAAQBAJ",
+      "etag": "cOykud04Gxs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6P_VBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Citizen-protectors",
+        "subtitle": "The Everyday Politics of Guns in an Age of Decline",
+        "authors": [
+          "Jennifer Carlson"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2015",
+        "description": "\"From gang- and drug-related shootings to mass shootings in schools, shopping centers, and movie theatres, reports of gun crimes fill the headlines of newspapers and nightly news programs. At the same time, a different kind of headline has captured public attention: a steady surge in pro-gun sentiment among Americans. A Gallup poll conducted just a month after the Newtown school shootings found that 74% of Americans oppose a ban on hand-guns, and at least 11 million people now have licenses to carry concealed weapons as part of their everyday lives. Why do so many Americans not only own guns but also carry them? In Citizen-Protectors, Jennifer Carlson offers a compelling portrait of gun carriers, shedding light on Americans' complex relationship with guns. Delving headlong into the world of gun carriers, Carlson spent time participating in firearms training classes, attending pro-gun events, and carrying a firearm herself. Through these experiences she explores the role guns play in the lives of Americans who carry them and shows how, against a backdrop of economic insecurity and social instability, gun carrying becomes a means of being a good citizen, an idea that not only pervades the NRA's public literature and statements, but its training courses as well. A much-needed counterpoint to the rhetorical battles over gun control, Citizen-Protectors is a captivating and revealing look at gun culture in America, and is a must-read for anyone with a stake in this heated debate\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199347551"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199347557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 249,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6P_VBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6P_VBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6P_VBgAAQBAJ&printsec=frontcover&dq=guns&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6P_VBgAAQBAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Citizen_protectors.html?hl=&id=6P_VBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Citizen_protectors-sample-pdf.acsm?id=6P_VBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6P_VBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Why do so many Americans not only own guns but also carry them? In Citizen-Protectors, Jennifer Carlson offers a compelling portrait of gun carriers, shedding light on Americans&#39; complex relationship with guns."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gZ5cCwAAQBAJ",
+      "etag": "1qop/zb1KIY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gZ5cCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Into the Guns",
+        "authors": [
+          "William C. Dietz"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2016-10-04",
+        "description": "From the New York Times bestselling author of The Legion of the Damned® Novels and The Mutant Files comes the first novel in a post-apocalyptic military science fiction series about America rising from the ashes of a global catastrophe... On May Day, 2018, sixty meteors entered Earth’s atmosphere and exploded around the globe with a force greater than a nuclear blast. Earthquakes and tsunamis followed. Then China attacked Europe, Asia, and the United States in the belief the disaster was an act of war. Washington D.C. was a casualty of the meteor onslaught that decimated the nation’s leadership and left the surviving elements of the armed forces to try and restore order as American society fell apart. As refugees across America band together and engage in open warfare with the military over scarce resources, a select group of individuals representing the surviving corporate structure makes a power play to rebuild the country in a free market image as The New Confederacy...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780698184398"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0698184394"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gZ5cCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gZ5cCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gZ5cCwAAQBAJ&printsec=frontcover&dq=guns&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gZ5cCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gZ5cCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gZ5cCwAAQBAJ&rdid=book-gZ5cCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Into_the_Guns-sample-epub.acsm?id=gZ5cCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gZ5cCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the New York Times bestselling author of The Legion of the Damned® Novels and The Mutant Files comes the first novel in a post-apocalyptic military science fiction series about America rising from the ashes of a global catastrophe."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XamMEAAAQBAJ",
+      "etag": "0YozBAZX+Bw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XamMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Lives Like Loaded Guns",
+        "subtitle": "Emily Dickinson and Her Family's Feuds",
+        "authors": [
+          "Lyndall Gordon"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2011-05-31",
+        "description": "\"Lives Like Loaded Guns...reads like a fabulous detective story...[Gordon] takes us into undiscovered territory.\" —The Washington Post A great companion to fans of the film A Quiet Passion, starring Cynthia Nixon as Emily Dickinson and the new series Dickinson. In 1882, Emily Dickinson's brother, Austin, began an adulterous love affair with the accomplished and ravishing Mabel Todd, setting in motion a series of events that would forever change the lives of the Dickinson family. Award-winning biographer Lyndall Gordon tells the story of the feud that erupted-and that still continues today. Making unprecedented use of letters, diaries, and legal documents, Gordon proposes a groundbreaking new solution to the secret behind the poet's insistent seclusion, presenting a woman beyond her time who found love, spirituality, and immortality all on her own terms. The first major biography of Dickinson in nearly ten years, Lives Like Loaded Guns is a highly acclaimed story of creative genius, illicit passion, and betrayal that will forever change the way we view one of America's most important literary figures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143119142"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143119141"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XamMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XamMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XamMEAAAQBAJ&dq=guns&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XamMEAAAQBAJ&dq=guns&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lives_Like_Loaded_Guns.html?hl=&id=XamMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XamMEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Lives Like Loaded Guns...reads like a fabulous detective story...[Gordon] takes us into undiscovered territory.&quot; —The Washington Post A great companion to fans of the film A Quiet Passion, starring Cynthia Nixon as Emily Dickinson and ..."
+      }
+    }
+  ]
+}
